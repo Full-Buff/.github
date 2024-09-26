@@ -18,8 +18,8 @@
 
 ## 🚀 Our Projects
 
-- [**static-file-server**](https://github.com/FullBuff/static-file-server): Customized static file server used for our FastDL server. Supports public uploads and easily extensible upload rules.
-- [**Server-Scripts**](https://github.com/FullBuff/Server-Scripts): Setup and installation scripts used to create and maintain game servers run by FullBuff and [FullBuff Hosting](https://hosting.fullbuff.gg).
+- [**static-file-server**](https://github.com/Full-Buff/static-file-server): Customized static file server used for our FastDL server. Supports public uploads and easily extensible upload rules.
+- [**Server-Scripts**](https://github.com/Full-Buff/Server-Scripts): Setup and installation scripts used to create and maintain game servers run by FullBuff and [FullBuff Hosting](https://hosting.fullbuff.gg).
 
 *...and many more! Check out our [repositories](https://github.com/orgs/Full-Buff/repositories) for a full list.*
 
