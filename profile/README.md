@@ -38,4 +38,4 @@
 
 *Empowering gamers and developers worldwide through open collaboration and shared passion.*
 
-[![Footer Image](https://mirror.fullbuff.gg/resources/fullbuff.png)](#)
+[![Footer Image](https://mirror.fullbuff.gg/resources/fullbuff.ico)](#)
