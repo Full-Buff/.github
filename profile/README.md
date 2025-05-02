@@ -1,4 +1,4 @@
-# Welcome to FullBuff! 🎮🌐
+# Welcome to FullBuff! 
 
 [![Website](https://img.shields.io/badge/Website-www.fullbuff.gg-blue?style=flat-square&logo=google-chrome)](https://www.fullbuff.gg)
 [![GitHub followers](https://img.shields.io/github/followers/FullBuff?label=Follow&style=social)](https://github.com/Full-Buff)
